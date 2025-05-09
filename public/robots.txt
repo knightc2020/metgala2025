@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://metgala2025looks.com/sitemap.xml
